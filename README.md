@@ -1,4 +1,4 @@
-# AI Diet Chart & Nutrition Calculator
+# NutriApp
 
 A full-featured desktop application for personalized diet planning, nutrition tracking, 
 and health management — built with Python and powered by Google's Gemini AI for 
@@ -6,7 +6,7 @@ intelligent, personalized recommendations.
 
 ## Overview
 
-AI Diet Chart & Nutrition Calculator is a desktop health companion that combines 
+NutriApp is a desktop health companion that combines 
 traditional calculators (BMI, calorie needs, water intake) with AI-driven insights 
 for meal planning, nutrition lookup, and health tips. It supports full user 
 authentication (including face login), an admin management panel, and progress 
@@ -82,8 +82,8 @@ tracking with visual charts — all in a clean, healthcare-themed interface.
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/Piyush00189/AI_diet_and_nutrition_calculator.git
-   cd AI_diet_and_nutrition_calculator
+   git clone https://github.com/Piyush00189/NutriApp.git
+   cd NutriApp
 ```
 
 2. Create and activate a virtual environment
